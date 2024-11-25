@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="left">👩‍💻 Sobre mim*</h2>
+<h2 align="left"> Sobre mim*</h2>
 
 ###
 
-<p align="left">Me chamo Ivo Junior e sou estudante de programação<br><br>- 🌙 Foco em desenvolvimento web<br>- 📚 Estudo no IFMA - Campus Açailândia (Técnico em Informática)<br>- 💫 Design, Música e Arte como passatempo</p>
+<p align="left">Me chamo Joel Vinicius e sou estudante<br><br>-  Tenho 17y<br>-  Não compensa estudar, ngc e trabalhar no garimpo-  Cobra kai é melhor que Outer Banks</p>
 
 ###
 
