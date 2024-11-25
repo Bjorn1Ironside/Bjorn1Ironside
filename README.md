@@ -1,4 +1,4 @@
-<img src="image/Diggory.png.gif">
+<img src="Diggory.png.gif">
 </div>
 
 ###
