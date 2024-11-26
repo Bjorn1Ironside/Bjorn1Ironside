@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">🔨 Linguagens e ferramentas*</h2>
+<h2 align="left"> -ferramentas*</h2>
 
 ###
 
@@ -59,21 +59,7 @@
 
 ###
 
-<h2 align="left">📚 Planos de estudo futuros*</h2>
-
-###
-
-<div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" height="40"/> 
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" height="40"/> 
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" height="40"/> 
-    <img width="12" />
-</div>
-<div>
-<p align="left">- 💻 Backend<br>- 🗄 Banco de dados</p>
+<p align="left">-  Backend<br>-  Banco de dados</p>
 </div>
 
 ###
@@ -84,7 +70,7 @@
 
 ###
 
-<h2 align="left">📈 Estatíticas*</h2>
+<h2 align="left"> Estatíticas*</h2>
 
 ###
 
