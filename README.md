@@ -71,7 +71,7 @@
 
 ###
 
-<h2 align="left"> Estatíticas*</h2>
+<h2 align="left">Algumas Estatíticas</h2>
 
 ###
 
